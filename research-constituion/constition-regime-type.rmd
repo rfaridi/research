@@ -1,0 +1,122 @@
+---
+title: Notes on acemoglu stuffs
+---
+
+# Economic origins of dictatorship
+
+## Preface
+
+fundamental question political science which factors determine collective decision making
+
+democratic and nondemocratic institutions 
+
+why are some democracy, why are some not 
+
+united states universal male suffrage by early 1820s
+
+first latin countries implement male suffrage, argential, uruguay
+elsalvedor paraguay not until 1990 
+
+great variation in the timing of democratization 
+
+qualitative differences in the form 
+
+democracy created with little conflict 
+
+in other places severely opposed 
+
+el salvedor, repression abandoned and elites conceded
+
+cuba, elites fought to the bitter end and swept away by revolutions
+
+once created, democracy necessarily does not consolidate 
+
+some countries move towards democracy and does not reverse
+
+other fell to coup, argentina the most extreme example 
+
+what determines a country democracy? what factors explain? 
+
+why usa achieved universal suffrage more than a century before latin american countries
+
+why democracy persist usa, western europe, sweden? why failed argentina, brazil, chile? 
+
+in this book framework: 
+
+individual econ incentives determining pol attitudes 
+
+fundamental importance of conflict. different groups have opposing interests over political outcomes
+
+a society: two groups - elite and citizen
+
+nondemocracy: rule by elite
+democracy: rule by majority 
+
+in a democracy, elite loses power but all the democracies are created by elites, why would elite create democracy then? 
+
+This is because disenfranchised citizens can force elites to do so . these threats can take the form of riots, strikes, demonstrations
+
+they try to stop it with repression but repression is also costly, then they go for negotiation, allow policies that are less costly
+
+but there is no guarantee that they will not renege on their promise 
+
+Suppose some shock happened in the economy, elite were forced to promise something. So a window for citizens were created . but when that transitory window is gone, the elite can always renege 
+
+politically powerful cannot commit to future policy decisions unless they reduce their political power
+
+democratization is more of a credible commitment than mere promises. they only way to credibly change policies is to change the distribution of political power, this can be only achieved by institutional change
+
+main contribution of this book is understanding creation and consolidation of democracy 
+
+authors framework: democracy is more likely to be created: 
+
+* when there is sufficient social unrest in a nondemocratic regime, the amount of social unrest depends on 
+    - living condtions of citizens
+    - the strength of civil society
+    - the nature of collective action problem 
+
+* if the costs of democracy is aniticipated by the elite are limited, so that it is not tempted to use repression to deal with the discontent of the citizens
+  - the cost of elites can be high if the inequality is hight, when the elites have lot to lose 
+
+## Paths of political development 
+
+### Four main paths 
+
+four main paths of political development
+    - a path that leads from nondemocracy gradually but inexorably to democracy. once created, democracy is never threatened. britain is the best example of such path 
+    - second path: democracy once created quickly collapses. following this initial forces that created democracy goes back to power, then it collapses again. the cycle repeats. best example: argentina
+    - third path: country remains undemocratic or democracy much delayed. two branches of this path: 
+       * democracy is never created, society is relatively egalitarian and prosperous, nondemocratic political status quo stable. system is not challenged because people are sufficiently satisfied under existing political instituions. Such as singapore
+	* second branch: society is highly unequal and exploitative, which makes the prospect of democracy so threatening. political elites will use all means possible including violence and repression to avoid it. south africa before the collapse of apartheid was one such example
+
+the above four paths are described in this chapter 
+
+### Britain
+origin of democracy : creation of regular parliaments
+
+forum for the aristocracy to negotiate taxes and discuss policies with the king 
+
+after glorious revolution in 1688 , parliaments met regularly, did with a restrictive franchise: clergy and aristocracy, house of lords and house of commons
+
+changes emerged out of conflict between the stuart monarchs absolutist powers, parliament opposed
+
+finally parliament won
+
+outcome was a restructuring of political institutions that severly limited monarchy's power, increased those of parliament. the change in political institutions greatly increased led to much greater security of property rights
+
+It placed power in the hands of merchants and landowners oriented toward sale for the market. by the late eighteenth century, sustained economic growth had begun
+
+First importan move towards democracy: First reform act of 1832
+right to vote based uniformly on the basis of property and income 
+
+after 1832 working class reorganized through the Chartist movement and later the trade unions. 1832 reform also established the right to vote.
+
+Momentum for reform finally came to a head in 1867, largely due to a juxtaposition of factors
+    * sharp business-cyle downturn
+    * significant economic hardship 
+
+Reform union and reform league was created. Riots have started. It forced to introduce a reform bill.
+
+The second reform act was passed in 1867, the total electorate expanded from 1.36 million to 2.48 mill. Then working class voters became the majority in all urban centers.
+
+The electorate again doubled by third reform act of 1884. Again social disorder seemed to be an important factor.

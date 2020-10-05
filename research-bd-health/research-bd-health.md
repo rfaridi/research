@@ -124,4 +124,11 @@ colony set to establish individual rights
 
 with passage of time, these values got deeply entrenched into american society 
 
+# July 12 
+
+Downloaded bangladesh paradox paper
+
+Next actions: 
+    * read the paper 
+    * take notes 
 
